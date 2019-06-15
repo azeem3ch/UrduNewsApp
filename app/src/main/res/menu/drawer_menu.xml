@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/pakistan"
+            android:title="پاکستان" /></group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/international"
+            android:title="انٹر نیشنل" />
+        <item
+            android:id="@+id/sports"
+            android:title="کھیل" />
+        <item
+            android:id="@+id/saqafat"
+            android:title="شوبز" />
+        <item
+            android:id="@+id/weird-news"
+            android:title="دلچسپ و عجیب" />
+        <item
+            android:id="@+id/health"
+            android:title="صحت" />
+        <item
+            android:id="@+id/science"
+            android:title="سائنس و ٹیکنالوجی" />
+        <item
+            android:id="@+id/business"
+            android:title="بزنس" />
+
+    </group>
+
+</menu>

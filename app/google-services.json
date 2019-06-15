@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740748741999",
+    "firebase_url": "https://urdu-news-65e17.firebaseio.com",
+    "project_id": "urdu-news-65e17",
+    "storage_bucket": "urdu-news-65e17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740748741999:android:f6c053c01b454944",
+        "android_client_info": {
+          "package_name": "com.example.urdunews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740748741999-ejqe2u0viecgt6dndvvguhubjt8sba88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urdunews",
+            "certificate_hash": "eec6759086989dcdaceb17a4394ce56fb2417119"
+          }
+        },
+        {
+          "client_id": "740748741999-4oe60pfnlradse35me0481d6a4fc3uiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrt0oxQprv6F8Aw03SogUhH7Zz_fuRS3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740748741999-4oe60pfnlradse35me0481d6a4fc3uiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
